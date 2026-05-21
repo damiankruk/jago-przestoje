@@ -1,0 +1,73 @@
+{
+  "operators": [
+    "Patryk Slowikowski",
+    "Rafal Sarek",
+    "Angelika Lapuszek",
+    "Agnieszka Wojewoda",
+    "Grzegorz Kochanowicz",
+    "Martyna Berdecka",
+    "Wiktoria Laton",
+    "Magdalena Piekos",
+    "Justyna Wawryn"
+  ],
+  "lines": [
+    "1/2",
+    "6/7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "15",
+    "16",
+    "19",
+    "20"
+  ],
+  "shifts": [
+    "Zmiana 1",
+    "Zmiana 2",
+    "Zmiana 3"
+  ],
+  "statuses": [
+    {
+      "name": "Praca",
+      "color": "#248a3d"
+    },
+    {
+      "name": "Awaria",
+      "color": "#c7352e"
+    },
+    {
+      "name": "Brak surowca",
+      "color": "#d88714"
+    },
+    {
+      "name": "Regulacje",
+      "color": "#286fb4"
+    },
+    {
+      "name": "Mikroprzestoje",
+      "color": "#6f42c1"
+    },
+    {
+      "name": "Proby",
+      "color": "#0f766e"
+    },
+    {
+      "name": "Inne",
+      "color": "#7c3aed"
+    },
+    {
+      "name": "Mycie / sprzatanie",
+      "color": "#4f5b62"
+    },
+    {
+      "name": "Przezbrojenie",
+      "color": "#8a5a21"
+    },
+    {
+      "name": "Postoj planowany",
+      "color": "#65727a"
+    }
+  ]
+}
